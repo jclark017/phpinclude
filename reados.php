@@ -1,7 +1,7 @@
 <?php
 
 //Store the output of the executed command
-
+echo "test";
 $output1 =  exec('pwd');
 
 //Print the return value
